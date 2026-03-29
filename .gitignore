@@ -1,0 +1,30 @@
+### Gradle ###
+.gradle/
+build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
+
+### Spring Boot ###
+src/main/resources/application.yml
+src/main/resources/application-*.yml
+
+### Logs ###
+logs/
+*.log
+
+### Env ###
+*.env
+
+### Test Results ###
+/test-results/
